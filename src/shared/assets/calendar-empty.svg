@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="104" viewBox="0 0 104 104">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M0 0h104v104H0z"/>
+        <g transform="translate(16 6)">
+            <rect width="71.607" height="68.799" y="9.477" fill="#E5E7E9" stroke="#797F84" stroke-width=".5" rx="4.914"/>
+            <rect width="61.778" height="42.122" x="4.914" y="31.24" fill="#FAFBFD" stroke="#292C36" stroke-width=".5" rx="2.808"/>
+            <text fill="#797F84" font-family="Quicksand-SemiBold, Quicksand" font-size="31" font-weight="500">
+                <tspan x="27.849" y="71.3">?</tspan>
+            </text>
+            <path fill="#FAFBFD" stroke="#797F84" stroke-width=".5" d="M4.914 9.477h61.779c2.714 0 4.914 2.2 4.914 4.915v11.934H0V14.392c0-2.714 2.2-4.915 4.914-4.915z"/>
+            <g transform="translate(50.546)">
+                <circle cx="4.212" cy="14.743" r="4.212" fill="#FFF" stroke="#292C36" stroke-width=".5"/>
+                <rect width="5.616" height="16.849" x="1.404" fill="#292C36" rx="2.808"/>
+            </g>
+            <g transform="translate(12.636)">
+                <circle cx="4.212" cy="14.743" r="4.212" fill="#FFF" stroke="#292C36" stroke-width=".5"/>
+                <rect width="5.616" height="16.849" x="1.404" fill="#292C36" rx="2.808"/>
+            </g>
+            <ellipse cx="35.803" cy="86.5" fill="#DADADA" rx="35.803" ry="3.5"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="104" viewBox="0 0 104 104">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M0 0h104v104H0z"/>
+        <path fill="#FAFBFD" stroke="#797F84" stroke-width=".5" d="M40 23h2v5h-2zM63 23h2v5h-2z"/>
+        <path fill="#0076CB" d="M44 19h17a4 4 0 0 1 4 4H40a4 4 0 0 1 4-4z"/>
+        <path fill="#F3F5F6" stroke="#797F84" stroke-width=".5" d="M90 30.924v49.152A3.924 3.924 0 0 1 86.076 84H18.924A3.924 3.924 0 0 1 15 80.076V30.924A3.924 3.924 0 0 1 18.924 27h67.152A3.924 3.924 0 0 1 90 30.924z"/>
+        <text fill="#1EA4FF" font-family="Quicksand-SemiBold, Quicksand" font-size="40" font-weight="500" transform="translate(15 19)">
+            <tspan x="27.74" y="61">?</tspan>
+        </text>
+        <path fill="#A1A5A9" d="M18.75 26.75h4v4a4 4 0 0 1-4 4h-4v-4a4 4 0 0 1 4-4zM86.25 26.75h-4v4a4 4 0 0 0 4 4h4v-4a4 4 0 0 0-4-4zM18.75 84.25h4v-4a4 4 0 0 0-4-4h-4v4a4 4 0 0 0 4 4zM86.25 84.25h-4v-4a4 4 0 0 1 4-4h4v4a4 4 0 0 1-4 4z"/>
+        <ellipse cx="52.5" cy="92.5" fill="#A7E5FF" rx="38.5" ry="3.5"/>
+    </g>
+</svg>

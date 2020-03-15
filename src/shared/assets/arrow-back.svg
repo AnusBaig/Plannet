@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="22" viewBox="0 0 33 32">
+    <defs>
+        <path id="a-backarrow" d="M10.82.63l-.557.517a1 1 0 0 0 0 1.466l7.231 6.72H1a1 1 0 0 0-1 1V11a1 1 0 0 0 1 1h16.494l-7.232 6.72a1 1 0 0 0 0 1.466l.558.517a1 1 0 0 0 1.36 0L23 10.667 12.18.63a1 1 0 0 0-1.36 0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(0 11.2)">
+        <mask id="b-backarrow" fill="#fff">
+            <use xlink:href="#a-backarrow"/>
+        </mask>
+        <use fill="#000" transform="matrix(-1 0 0 1 23 0)" xlink:href="#a-backarrow"/>
+    </g>
+</svg>

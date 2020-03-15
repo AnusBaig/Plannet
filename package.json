@@ -1,0 +1,71 @@
+{
+  "name": "dimelo-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/core": "^10.0.14",
+    "@emotion/styled": "^10.0.14",
+    "@reach/router": "^1.2.1",
+    "@types/lodash": "^4.14.149",
+    "@types/react-big-calendar": "^0.22.3",
+    "axios": "^0.19.0",
+    "dayjs": "^1.8.15",
+    "immutability-helper": "^3.0.1",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "react": "^16.13.0",
+    "react-big-calendar": "^0.23.0",
+    "react-calendar": "^2.19.2",
+    "react-collapsible": "^2.6.2",
+    "react-day-picker": "^7.3.0",
+    "react-dnd": "^10.0.2",
+    "react-dnd-html5-backend": "^10.0.2",
+    "react-dnd-multi-backend": "^5.0.0",
+    "react-dnd-touch-backend": "^10.0.2",
+    "react-dom": "^16.8.6",
+    "react-google-autocomplete": "^1.1.2",
+    "react-masked-field": "^2.0.3",
+    "react-range": "^1.1.2",
+    "react-scripts": "^3.4.0",
+    "react-select": "^3.0.8",
+    "react-super-responsive-table": "^5.1.1",
+    "react-toastify": "^5.3.2",
+    "shortid": "^2.2.14",
+    "use-persisted-reducer": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^6.1.1",
+    "@types/jest": "24.0.15",
+    "@types/node": "12.6.8",
+    "@types/qs": "^6.5.3",
+    "@types/reach__router": "^1.2.4",
+    "@types/react": "16.8.23",
+    "@types/react-day-picker": "^5.3.0",
+    "@types/react-dom": "16.8.5",
+    "@types/shortid": "^0.0.29",
+    "@welldone-software/why-did-you-render": "^3.3.3",
+    "dotenv": "^8.0.0",
+    "typescript": "3.5.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

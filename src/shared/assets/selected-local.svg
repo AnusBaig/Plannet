@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="104" viewBox="0 0 104 104">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M0 0h104v104H0z"/>
+        <g transform="translate(2 6)">
+            <path fill="#E8F8FF" d="M50.276 90.16V29.44L9.796 52.9v37.26z"/>
+            <rect width="13.8" height="13.8" x="22.216" y="62.56" fill="#A7E5FF" rx=".92"/>
+            <path fill="#E8F8FF" d="M89.376 90.16h-39.56V10.12l39.56 23.46z"/>
+            <path fill="#A1A5A9" d="M89.836 39.56l-40.02-23v-6.44l40.02 23.46z" opacity=".215"/>
+            <path stroke="#797F84" stroke-width=".5" d="M89.836 90.16h-40.02V10.12l40.02 23.46z"/>
+            <path fill="#0076CB" d="M9.796 58.42l40.02-22.54v-6.44L9.796 52.9z" opacity=".138"/>
+            <circle cx="69.136" cy="43.24" r="7.36" fill="#A7E5FF"/>
+            <path fill="#0088E4" fill-opacity=".153" d="M44.296 32.2h5.52v57.96h-5.52z" opacity=".465"/>
+            <path fill="#797F84" d="M62.696 62.56h12.88a.92.92 0 0 1 .92.92v25.76h-14.72V63.48a.92.92 0 0 1 .92-.92z"/>
+            <path stroke="#797F84" stroke-width=".5" d="M49.816 90.16V29.44L9.796 52.9v37.26z"/>
+            <rect width="92" height="1.84" x="3.816" y="89.24" fill="#292C36" rx=".92"/>
+            <path fill="#0076CB" d="M6.826 47.33L49.788 22.6l-.028 7.31L4.976 55.848a.92.92 0 0 1-1.381-.796v-2.133a6.448 6.448 0 0 1 3.231-5.588z"/>
+            <path fill="#292C36" stroke="#797F84" stroke-width=".5" d="M89.838 26.5L50.748 3.652a7.056 7.056 0 0 0-9.212 1.868l54.74 32.2c0-4.618-2.451-8.89-6.438-11.22z"/>
+        </g>
+    </g>
+</svg>

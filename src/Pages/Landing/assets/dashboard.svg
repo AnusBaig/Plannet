@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M0 0h192v192H0z" opacity=".397"/>
+        <g transform="translate(20 53)">
+            <rect width="144" height="99" y="8" fill="#E5E7E9" rx="4"/>
+            <rect width="143.5" height="98.5" x="9.25" y=".25" fill="#FAFBFD" stroke="#292C36" stroke-width=".5" rx="4"/>
+            <rect width="136.5" height="91.5" x="12.75" y="3.75" fill="#FAFBFD" stroke="#292C36" stroke-width=".5" rx="2"/>
+            <circle cx="35" cy="73" r="16" fill="#DFF5FF"/>
+            <rect width="48" height="40" x="17" y="8" fill="#1285D8" rx="2"/>
+            <path fill="#A7E5FF" d="M19 8h20v40H19a2 2 0 0 1-2-2V10a2 2 0 0 1 2-2z" opacity=".131"/>
+            <rect width="71.5" height="51.5" x="73.25" y="40.25" fill="#F5FBFF" stroke="#292C36" stroke-width=".5" rx="2"/>
+            <path fill="#C2C6CA" fill-opacity=".383" d="M91 46h8v40h-8zM119 46h8v40h-8z"/>
+            <path fill="#DDF1F9" d="M77 46h8v40h-8zM105 46h8v40h-8zM133 46h8v40h-8z"/>
+            <path d="M29 16h24v24H29z"/>
+            <path fill="#A7E5FF" d="M49.873 19.127c-.508-.51-2.844.625-3.7 1.481l-2.797 2.802-8.81-2.223c-.74-.254-1.48-.116-1.965.37L32 22.16l8.509 4.12-.3.302-.995.995c-.162.162-.3.324-.44.51l-3.028 4.097-2.52-.37-.671.671 4 4.006.67-.672-.37-2.523 4.116-3.056c.162-.14.347-.278.509-.44.231-.209.81-.81.971-.973l.3-.3.209.347L46.89 37l.602-.602c.485-.486.624-1.227.37-1.945l-2.22-8.82 2.798-2.802c.809-.857 1.942-3.218 1.433-3.704z"/>
+            <rect width="61" height="3" x="76" y="26" fill="#292C36" rx="1.5"/>
+            <rect width="40" height="3" x="76" y="14" fill="#292C36" rx="1.5"/>
+            <rect width="40" height="1" x="76" y="21" fill="#292C36" rx=".5"/>
+            <rect width="40" height="1" x="76" y="9" fill="#292C36" rx=".5"/>
+            <path stroke="#1EA4FF" stroke-linecap="round" stroke-width="2" d="M41 77.733c12.667-14.44 24.333-21.452 35-21.037 16 .622 20.23 17.706 36.615 17.706S124 60.1 137 60.1"/>
+        </g>
+    </g>
+</svg>

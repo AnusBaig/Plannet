@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="104" viewBox="0 0 104 104">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M0 0h104v104H0z"/>
+        <g transform="translate(0 29)">
+            <g transform="translate(0 24.38)">
+                <path fill="#797F84" d="M0 0h103.88v23.32H0z"/>
+                <rect width="8.48" height="1.06" x="4.24" y="13.78" fill="#FAFBFD" rx=".53"/>
+                <rect width="8.48" height="1.06" x="38.16" y="13.78" fill="#FAFBFD" rx=".53"/>
+                <rect width="8.48" height="1.06" x="89.04" y="13.78" fill="#FAFBFD" rx=".53"/>
+                <rect width="8.48" height="1.06" x="55.12" y="13.78" fill="#FAFBFD" rx=".53"/>
+                <rect width="8.48" height="1.06" x="72.08" y="13.78" fill="#FAFBFD" rx=".53"/>
+                <rect width="8.48" height="1.06" x="21.2" y="13.78" fill="#FAFBFD" rx=".53"/>
+            </g>
+            <path fill="#A7E5FF" d="M10.398 33.39h85.57a4.24 4.24 0 0 0 4.238-4.396c-.19-5.157-1.262-8.992-3.216-11.504-3.676-4.726-5.83-5.3-10.07-5.3H75.26C66.073 4.063 55.297 0 42.93 0 30.563 0 17.49 5.653 3.71 16.96l.331 10.275a6.36 6.36 0 0 0 6.357 6.155z"/>
+            <path fill="#1EA4FF" d="M32.33 14.31c4.24 8.127 7.067 12.19 8.48 12.19h58.83c.53-4.77-3.18-12.19-6.36-12.19H32.33z"/>
+            <rect width="27.56" height="1.06" x="29.68" y="20.14" fill="#E5E7E9" rx=".53"/>
+            <rect width="27.56" height="1.06" x="25.44" y="22.26" fill="#E5E7E9" rx=".53"/>
+            <path fill="#FAFBFD" stroke="#797F84" stroke-width=".53" d="M97.255 18.02H91.16a2.12 2.12 0 0 0 0 4.24h7.95c-.177-1.06-.442-1.943-.795-2.65-.353-.707-.707-1.237-1.06-1.59z"/>
+            <path stroke="#797F84" stroke-width=".53" d="M10.07 33.39h85.563a4.24 4.24 0 0 0 4.24-4.194c.057-5.26-.904-9.161-2.883-11.706-3.676-4.726-6.36-5.3-10.6-5.3H74.73C65.543 4.063 54.767 0 42.4 0 30.033 0 17.137 5.653 3.71 16.96v10.07a6.36 6.36 0 0 0 6.36 6.36z"/>
+            <path fill="#E8F8FF" stroke="#797F84" stroke-width=".53" d="M74.73 12.19c-25.061.096-38.311.096-39.75 0C27.03 11.66 23.32 0 42.4 0c12.72 0 23.497 4.063 32.33 12.19z"/>
+            <circle cx="21.2" cy="31.8" r="8.48" fill="#292C36"/>
+            <circle cx="77.38" cy="31.8" r="8.48" fill="#292C36"/>
+            <circle cx="21.2" cy="31.8" r="5.3" fill="#FAFBFD"/>
+            <circle cx="77.38" cy="31.8" r="5.3" fill="#FAFBFD"/>
+            <path fill="#FAFBFD" stroke="#797F84" stroke-width=".53" d="M3.71 18.02h4.24a2.12 2.12 0 0 1 0 4.24H3.71v-4.24z"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,75 @@
+.scroll::-webkit-scrollbar {
+    width: 5px;
+    height: 8px;
+    background-color: none; /* or add it to the track */
+    margin-top: 8px;
+  }
+  .scroll::-webkit-scrollbar-thumb {
+    background: #e5e7e9; 
+    border-radius: 15px;
+
+}
+.custom-select option{
+  font-family: 'Quicksand';
+  font-size: 12px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  display: block;
+}
+
+@media screen and (max-width: 40em){
+  .responsiveTable td.pivoted {
+    border: 1px solid #a1a5a9 !important;
+    height: 52px;
+  }
+  .responsiveTable tbody tr {
+    border: none !important;
+    padding: .25em;
+}
+  .responsiveTable thead tr th{
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+    border: none !important;
+  }
+  .responsiveTable td .tdBefore{
+    line-height: 3 !important;
+    height: 100% !important;
+    border-right: 1px solid #a1a5a9 !important;
+    top: 0px !important;
+  }
+  .responsiveTable .tdRemove .tdBefore{
+    display: none;
+  }
+  .responsiveTable td.tdRemove{
+    padding-left:0px !important;
+    padding: 0px !important;
+    width: 99.5% !important;
+    height: 8vh !important;
+  }
+
+  .responsiveTable .cityAndDatesTable td.pivoted{
+    height: 40px;
+  }
+}
+@media screen and (max-width: 375px) {
+  .responsiveTable td.tdRemove{
+    padding: 0px 0px 3px  !important;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .responsiveTable td.tdRemove{
+    padding: 0px 0px 10px  !important;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .responsiveTable td.tdRemove .ButtonDiv{
+    display: block !important;
+  }
+  .responsiveTable td.tdRemove div > button:first-child{
+    width: 88% !important;
+  }
+}
