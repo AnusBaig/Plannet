@@ -1,2 +1,3 @@
-#Plannet
-###Design your tour and book all necessary stuff
+Plannet
+
+Design your tour and book all necessary stuff
